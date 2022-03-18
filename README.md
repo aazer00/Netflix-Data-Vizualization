@@ -7,5 +7,5 @@ Technologies: HTML, Javascript, p5.js,
 ### Page 1
 ![](images/Capture.PNG)
 ### Page 2
-![](images/Capture1.PNG)
+![](images/Capture1.PNG) 
 
